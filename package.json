@@ -1,0 +1,14 @@
+{
+  "name": "mediplus-api-auth-aa5-ev01",
+  "version": "1.0.0",
+  "description": "Servicio web de registro e inicio de sesion para la evidencia GA7-220501096-AA5-EV01.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
